@@ -8,7 +8,7 @@ The test results are as follows:
 | ViT-B/16              | 75.82   |
 | ViT-B/16 + SparseAttn | 75.82   |
 | ViT-B/16 + LocalAttn  | 63.46   |
-| ResNet                | 75.00   |
+| ResNet-50             | 75.00   |
 
 ### 0. Environment
 
