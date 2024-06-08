@@ -1,4 +1,4 @@
-# myDL
+# Implementation for Vision Transformer (ViT), ResNet and versions of attention mechanism.
 This is a PyTorch implementation for Vision Transformer (ViT), ResNet and versions of attention mechanism.
 
 The test results are as follows:
