@@ -6,7 +6,7 @@ The test results are as follows:
 | Model                 | Acc (%) |
 | --------------------- | ------- |
 | ViT-B/16              | 75.82   |
-| ViT-B/16 + SparseAttn |         |
+| ViT-B/16 + SparseAttn | 75.82   |
 | ViT-B/16 + LocalAttn  | 63.46   |
 | ResNet                | 75.00   |
 
